@@ -25,16 +25,16 @@ Replacing the ninth graders' scores drops the overall passing percentage of Thom
 **How does replacing the ninth-grade scores affect the following:**
 
 - Math and reading scores by grade
-When the math and reading scores are displayed by grade, "nan" appears in the math and reading dataframes for ninth graders at Thomas High School.
+    - When the math and reading scores are displayed by grade, "nan" appears in the math and reading dataframes for ninth graders at Thomas High School.
                 
 - Scores by school spending
-                Thomas High School is in the $631-645 spending range. Updating the ninth grader scores had no affect on the overal averages and passing percentages.
+    - Thomas High School is in the $631-645 spending range. Updating the ninth grader scores had no affect on the overal averages and passing percentages.
                 
 - Scores by school size
-                Thomas High School is in the medium school size range. Updating the ninth grader scores had no affect on the overal averages and passing percentages.
+    - Thomas High School is in the medium school size range. Updating the ninth grader scores had no affect on the overal averages and passing percentages.
                 
 - Scores by school type
-                Thomas High School is grouped with the Charter schools. Updating the ninth grader scores had no affect on the overal averages and passing percentages.
+    - Thomas High School is grouped with the Charter schools. Updating the ninth grader scores had no affect on the overal averages and passing percentages.
                 
 ## Summary
 
