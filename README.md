@@ -8,8 +8,11 @@ The purpose of this analysis is to repeat the school district analysis after rep
 When the new district analysis that contains NaN values for all ninth grader scores at Thomas High School is compared to the original district analysis, there is no affect on the average and passing percentage numbers. When rounded to the same digits, there are no discrepancies identified between the two analyses. 
 
 Looking at the new school summary for Thomas High School, it is noted that the average math and reading scores remained the same, however the percentages of students passing both math and reading are significantly different. In the original analysis, the percentages of students passing math and reading were 93% and 97%, respectively. After replacing the ninth grader scores with NaN, the passing percentages dropped to 67% for math and 70% for reading. 
-
-have significant different in the 
+    
+    Original Thomas High School Summary:
+        ![This is an image](https://github.com/lucymccanna/School_District_Analysis/commit/4516d6120a645f0beb19581da596225ca86a546e#diff-       14c9ae97db011ef8cdee58cb4fb411cc88237c922ffcc85901119d2e595e454f)
+    New Thomas High School Summary: 
+        ![This is an image](https://github.com/lucymccanna/School_District_Analysis/commit/4516d6120a645f0beb19581da596225ca86a546e#diff-57ea75d7abc548707028f8ce87655981ea0a01d04295a276c388b46bfe60b9b8)
 
 * How is the district summary affected?
     
