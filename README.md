@@ -11,6 +11,7 @@ Looking at the new school summary for Thomas High School, it is noted that the a
     
     Original Thomas High School Summary:
 ![GitHub Light](https://github.com/lucymccanna/School_District_Analysis/blob/main/Resources/original_school_summary_ThomasHigh.png)
+   
     New Thomas High School Summary: 
 ![This is an image](https://github.com/lucymccanna/School_District_Analysis/blob/main/Resources/new_school_summary_ThomasHigh.png)
 
